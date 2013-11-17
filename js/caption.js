@@ -1,8 +1,9 @@
 var Caption = {
 	captionText: [
 		{
+			topText: 'Music Playing',
 			// stop-----------UPPER------>	  -------*UPPER---------> --------------------*>
-			text: ['How long in lower case low low low', 'How long in lower case low low lo']
+			text: ['Hello JAMN! How are you all today?', 'The weather is very nice. Yay!']
 		}
 	]
 }
